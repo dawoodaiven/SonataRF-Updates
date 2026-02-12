@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>SonataRF Updates</title>
+        <item>
+            <title>Version 1.1.0</title>
+            <sparkle:releaseNotesLink>https://github.com/[YOUR_USERNAME]/SonataRF-Updates/releases</sparkle:releaseNotesLink>
+            <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/dawoodaiven/SonataRF-Updates/releases/download/v1.1.0/Sonata.exe"
+                       sparkle:version="1.1.0"
+                       sparkle:os="windows"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
