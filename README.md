@@ -1,0 +1,2 @@
+# SonataRF-Updates
+WinSparkle Appcast
